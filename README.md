@@ -1,2 +1,2 @@
 # ODFD
-ODFD (Online Disk File Downloader) supports batch access to the direct link download addresses. 
+ODFD (Online Disk File Downloader) supports batch access to the direct link download addresses of six online disks, namely Baidu online disk, Alibaba Cloud disk, Tianyi Cloud disk, Xunlei Cloud disk, Quark online disk, and Mobile Cloud disk. It can be downloaded efficiently with tools such as IDM, Xdown, Aria2, Curl, and BitComet. It is perfect for 18 browsers, including Chrome, Edge, FireFox, 360, QQ, Sogou, Baifen, Youyou, Xingyuan, Opera, Cheetah, Vivaldi, Yandex, and Kiwi. The assistant is free and open source. 
